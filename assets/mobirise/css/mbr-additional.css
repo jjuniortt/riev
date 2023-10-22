@@ -1282,38 +1282,183 @@ a:hover {
     margin-top: 10px;
   }
 }
-.cid-tTqYGn6GEA {
-  padding-top: 0rem;
-  padding-bottom: 0rem;
-  background-color: #ffffff;
+.cid-tTsAtH9Iy0 .mbr-iconfont {
+  display: block;
+  font-size: 3rem;
+  color: #913bff;
 }
-.cid-tTqYGn6GEA .img {
-  width: 250px;
-  height: 250px;
-  object-fit: contain;
-}
-.cid-tTqYGn6GEA .title-margin {
-  margin-bottom: 4rem;
+.cid-tTsAtH9Iy0 .card-wrapper {
+  min-height: 300px;
+  transition: all 0.3s;
+  padding: 3rem;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
 }
 @media (max-width: 992px) {
-  .cid-tTqYGn6GEA .title-margin {
-    margin-bottom: 2rem;
+  .cid-tTsAtH9Iy0 .card-wrapper {
+    padding: 3rem 2rem;
   }
 }
-.cid-tTqYGn6GEA .mbr-fallback-image.disabled {
-  display: none;
+.cid-tTsAtH9Iy0 .icon1 {
+  color: #ffffff;
 }
-.cid-tTqYGn6GEA .mbr-fallback-image {
-  display: block;
+.cid-tTsAtH9Iy0 .icon2 {
+  color: #ffffff;
+}
+.cid-tTsAtH9Iy0 .icon3 {
+  color: #272727;
+}
+.cid-tTsAtH9Iy0 .icon4 {
+  color: #272727;
+}
+.cid-tTsAtH9Iy0 .big {
+  min-height: 100%;
+}
+.cid-tTsAtH9Iy0 .mbr-section-btn {
+  max-width: 200px;
+}
+.cid-tTsAtH9Iy0 .mbr-section-btn .btn {
+  margin: 2px;
+}
+@media (max-width: 992px) {
+  .cid-tTsAtH9Iy0 .mbr-section-btn {
+    text-align: center;
+    max-width: 100%;
+    margin: auto;
+  }
+}
+.cid-tTsAtH9Iy0 .card1 {
+  background-image: url("../../../assets/images/background1.jpg");
   background-size: cover;
-  background-position: center center;
+  background-position: center;
+  padding: 6rem;
+}
+.cid-tTsAtH9Iy0 .card1 .mbr-iconfont {
+  font-size: 16.5rem;
+}
+@media (max-width: 767px) {
+  .cid-tTsAtH9Iy0 .card1 {
+    padding: 3rem 1rem;
+  }
+}
+.cid-tTsAtH9Iy0 .card-box {
+  z-index: 2;
+}
+.cid-tTsAtH9Iy0 .card2 {
+  background-image: url("../../../assets/images/background2.jpg");
+  background-size: auto 110%;
+  position: relative;
+  background-position: center;
+}
+.cid-tTsAtH9Iy0 .card2 .mbr-iconfont {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 90px;
+  height: 90px;
+  margin: auto;
+  margin-bottom: 0rem;
+}
+.cid-tTsAtH9Iy0 .card2:before {
+  content: '';
+  position: absolute;
+  transition: all 0.3s;
+  top: 0;
+  left: 0;
   width: 100%;
   height: 100%;
+  background: #272727;
+  z-index: 1;
+  opacity: 1;
+}
+.cid-tTsAtH9Iy0 .card2:hover {
+  background-size: auto 115%;
+}
+.cid-tTsAtH9Iy0 .card2:hover:before {
+  opacity: 0.3;
+}
+.cid-tTsAtH9Iy0 .card3 {
+  background-image: url("../../../assets/images/background4.jpg");
+  background-size: auto 110%;
+  position: relative;
+  background-position: center;
+}
+.cid-tTsAtH9Iy0 .card3 .mbr-iconfont {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 90px;
+  height: 90px;
+  margin: auto;
+  margin-bottom: 0rem;
+}
+.cid-tTsAtH9Iy0 .card3:before {
+  content: '';
   position: absolute;
   top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: #ffffff;
+  transition: all 0.3s;
+  z-index: 1;
+  opacity: 1;
+}
+.cid-tTsAtH9Iy0 .card3:hover {
+  background-size: auto 115%;
+}
+.cid-tTsAtH9Iy0 .card3:hover:before {
+  opacity: 0.3;
+}
+.cid-tTsAtH9Iy0 .card4 {
+  background-image: url("../../../assets/images/background3.jpg");
+  background-size: auto 110%;
+  position: relative;
+  background-position: center;
+}
+.cid-tTsAtH9Iy0 .card4:hover {
+  background-size: auto 115%;
+}
+.cid-tTsAtH9Iy0 .card4:hover:before {
+  opacity: 0;
+}
+.cid-tTsAtH9Iy0 .card4 .mbr-iconfont {
+  background: #f7df67;
+  border-radius: 50%;
+  font-size: 2rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 80px;
+  height: 80px;
+  margin: auto;
+  margin-bottom: 1rem;
+}
+.cid-tTsAtH9Iy0 .card-title,
+.cid-tTsAtH9Iy0 .card-box {
+  color: #ffffff;
+}
+.cid-tTsAtH9Iy0 .card2-title {
+  color: #ffffff;
+}
+.cid-tTsAtH9Iy0 .card3-title {
+  color: #272727;
+}
+.cid-tTsAtH9Iy0 .card4-title {
+  color: #ffffff;
+}
+.cid-tTsAtH9Iy0 .card1-title {
+  color: #ffffff;
+}
+.cid-tTsAtH9Iy0 .card2-text {
+  color: #ffffff;
+}
+.cid-tTsAtH9Iy0 .card4-text {
+  color: #ffffff;
 }
 .cid-tTrs6cKrfv {
-  padding-top: 1rem;
+  padding-top: 5rem;
   padding-bottom: 0rem;
   background-color: #ffffff;
 }
