@@ -19,19 +19,19 @@ body {
 }
 .display-4 {
   font-family: 'Be Vietnam Pro', sans-serif;
-  font-size: 1.4rem;
+  font-size: 1.5rem;
   line-height: 1.4;
 }
 .display-4 > .mbr-iconfont {
-  font-size: 1.75rem;
+  font-size: 1.875rem;
 }
 .display-5 {
   font-family: 'Be Vietnam Pro', sans-serif;
-  font-size: 1.875rem;
+  font-size: 2.13rem;
   line-height: 1.4;
 }
 .display-5 > .mbr-iconfont {
-  font-size: 2.34375rem;
+  font-size: 2.6625rem;
 }
 .display-7 {
   font-family: 'Be Vietnam Pro', sans-serif;
@@ -63,14 +63,14 @@ body {
     line-height: calc( 1.31 * (1.7874999999999999rem + (3.25 - 1.7874999999999999) * ((100vw - 20rem) / (48 - 20))));
   }
   .display-4 {
-    font-size: 1.12rem;
-    font-size: calc( 1.14rem + (1.4 - 1.14) * ((100vw - 20rem) / (48 - 20)));
-    line-height: calc( 1.4 * (1.14rem + (1.4 - 1.14) * ((100vw - 20rem) / (48 - 20))));
+    font-size: 1.2rem;
+    font-size: calc( 1.175rem + (1.5 - 1.175) * ((100vw - 20rem) / (48 - 20)));
+    line-height: calc( 1.4 * (1.175rem + (1.5 - 1.175) * ((100vw - 20rem) / (48 - 20))));
   }
   .display-5 {
-    font-size: 1.5rem;
-    font-size: calc( 1.30625rem + (1.875 - 1.30625) * ((100vw - 20rem) / (48 - 20)));
-    line-height: calc( 1.4 * (1.30625rem + (1.875 - 1.30625) * ((100vw - 20rem) / (48 - 20))));
+    font-size: 1.704rem;
+    font-size: calc( 1.3955rem + (2.13 - 1.3955) * ((100vw - 20rem) / (48 - 20)));
+    line-height: calc( 1.4 * (1.3955rem + (2.13 - 1.3955) * ((100vw - 20rem) / (48 - 20))));
   }
   .display-7 {
     font-size: 0.8rem;
@@ -587,12 +587,12 @@ a:hover {
 }
 .form-control {
   font-family: 'Be Vietnam Pro', sans-serif;
-  font-size: 1.4rem;
+  font-size: 1.5rem;
   line-height: 1.4;
   font-weight: 400;
 }
 .form-control > .mbr-iconfont {
-  font-size: 1.75rem;
+  font-size: 1.875rem;
 }
 .form-control:hover,
 .form-control:focus {
@@ -601,12 +601,12 @@ a:hover {
 }
 .form-control:-webkit-input-placeholder {
   font-family: 'Be Vietnam Pro', sans-serif;
-  font-size: 1.4rem;
+  font-size: 1.5rem;
   line-height: 1.4;
   font-weight: 400;
 }
 .form-control:-webkit-input-placeholder > .mbr-iconfont {
-  font-size: 1.75rem;
+  font-size: 1.875rem;
 }
 blockquote {
   border-color: #913bff;
@@ -1312,82 +1312,15 @@ a:hover {
   position: absolute;
   top: 0;
 }
-.cid-tTgvKXKX36 {
-  padding-top: 4rem;
-  padding-bottom: 3rem;
-  background-color: #ffffff;
-}
-.cid-tTgvKXKX36 .mbr-section-title {
-  padding-left: 2rem;
-  margin-top: -8px;
-  color: #ffffff;
-}
-@media (max-width: 991px) {
-  .cid-tTgvKXKX36 .mbr-section-title {
-    text-align: center;
-  }
-}
-.cid-tTgvKXKX36 .mbr-section-title .highlight {
-  display: inline-block;
-  background-color: #f92c50;
-  border-radius: 10px;
-  padding: 0 10px;
-  margin-left: -10px;
-}
-.cid-tTgvKXKX36 .mbr-section-subtitle {
-  padding-left: 2rem;
-  color: #000000;
-}
-@media (max-width: 991px) {
-  .cid-tTgvKXKX36 .mbr-section-subtitle {
-    text-align: center;
-    padding-left: 0;
-  }
-}
-.cid-tTgvKXKX36 .text {
-  position: relative;
-}
-@media (max-width: 991px) {
-  .cid-tTgvKXKX36 .text {
-    margin-top: 40px;
-    text-align: center;
-  }
-}
-.cid-tTgvKXKX36 .text svg {
-  position: absolute;
-  top: -25px;
-  left: -40px;
-  width: 45px;
-  height: 40px;
-  transform: rotate(9deg);
-}
-@media (max-width: 585px) {
-  .cid-tTgvKXKX36 .text svg {
-    display: none;
-  }
-}
-.cid-tTgvKXKX36 .text svg path {
-  fill: #f92c50;
-}
-@media (max-width: 991px) {
-  .cid-tTgvKXKX36 .mbr-section-btn {
-    justify-content: center!important;
-  }
-}
-.cid-tTgvKXKX36 .mbr-text,
-.cid-tTgvKXKX36 .mbr-section-btn {
-  color: #000000;
-  text-align: left;
-}
-.cid-tTgBFbdE6y {
-  padding-top: 3rem;
+.cid-tTrs6cKrfv {
+  padding-top: 1rem;
   padding-bottom: 0rem;
   background-color: #ffffff;
 }
-.cid-tTgBFbdE6y .mbr-fallback-image.disabled {
+.cid-tTrs6cKrfv .mbr-fallback-image.disabled {
   display: none;
 }
-.cid-tTgBFbdE6y .mbr-fallback-image {
+.cid-tTrs6cKrfv .mbr-fallback-image {
   display: block;
   background-size: cover;
   background-position: center center;
@@ -1396,29 +1329,67 @@ a:hover {
   position: absolute;
   top: 0;
 }
-.cid-tTgBFbdE6y .mbr-iconfont {
-  display: block;
-  font-size: 4rem;
-  color: #913bff;
+.cid-tTrs6cKrfv .mbr-section-title {
+  color: #000000;
+}
+.cid-tTrs6cKrfv .mbr-section-subtitle {
+  color: #000000;
+}
+.cid-tTrr0RVhjv {
+  padding-top: 60px;
+  padding-bottom: 45px;
+  background-color: #ffffff;
+}
+.cid-tTrr0RVhjv .mbr-iconfont {
+  font-size: 50px;
+  transition: color .3s;
+  padding: 1.5rem;
+}
+.cid-tTrr0RVhjv .mbr-section-title {
+  margin: 0;
+}
+.cid-tTrr0RVhjv .mbr-section-subtitle {
+  color: #8d97ad;
+}
+.cid-tTrr0RVhjv .card-img span {
+  color: #ec2016;
+}
+.cid-tTrr0RVhjv .row-item {
   margin-bottom: 2rem;
 }
-.cid-tTgBFbdE6y .card-wrapper {
-  min-height: 220px;
+.cid-tTrr0RVhjv .row-item:hover .wrapper {
+  background: linear-gradient(90deg, #ec2016, #ff8386);
+  cursor: pointer;
+  -webkit-transform: translateY(-10px);
+  transform: translateY(-10px);
   transition: all 0.3s;
-  border-radius: 4px;
-  padding: 1rem;
-  background: #ec2016;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  margin-bottom: 2rem;
 }
-.cid-tTgBFbdE6y .card-title,
-.cid-tTgBFbdE6y .card-box {
-  color: #ffffff;
+.cid-tTrr0RVhjv .row-item:hover .card-img span {
+  color: #ffffff !important;
+}
+.cid-tTrr0RVhjv .row-item:hover .mbr-card-title {
+  color: #ffffff !important;
+}
+.cid-tTrr0RVhjv .wrapper {
+  padding: 2.5rem 1rem;
+  background: #fff;
+  border-radius: 5px;
+  box-shadow: 0px 0px 30px rgba(115, 128, 157, 0.1);
+}
+.cid-tTrr0RVhjv .mbr-fallback-image.disabled {
+  display: none;
+}
+.cid-tTrr0RVhjv .mbr-fallback-image {
+  display: block;
+  background-size: cover;
+  background-position: center center;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
 }
 .cid-tTgx0vEgcT {
-  padding-top: 3rem;
+  padding-top: 0rem;
   padding-bottom: 0rem;
   background-color: #ffffff;
 }
@@ -1612,8 +1583,8 @@ a:hover {
   color: #4e4e4e;
 }
 .cid-tTgycwFtTU {
-  padding-top: 5rem;
-  padding-bottom: 5rem;
+  padding-top: 4rem;
+  padding-bottom: 3rem;
   background-image: url("../../../assets/images/background5.jpg");
 }
 .cid-tTgycwFtTU .mbr-fallback-image.disabled {
@@ -1745,7 +1716,7 @@ a:hover {
   color: #fff;
 }
 .cid-sXTofj7LEw {
-  padding-top: 6rem;
+  padding-top: 4rem;
   padding-bottom: 1rem;
   background-color: #ffffff;
 }
@@ -2085,7 +2056,7 @@ a:hover {
   object-fit: cover;
 }
 .cid-tTguqCbnqd {
-  padding-top: 6rem;
+  padding-top: 5rem;
   padding-bottom: 1rem;
   background-color: #ffffff;
 }
